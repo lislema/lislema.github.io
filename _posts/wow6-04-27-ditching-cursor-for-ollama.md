@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Why I Cancelled Cursor and Moved to Ollama Cloud"
-date: 2026-04-27
-categories: [ai, llm, tooling]
+title:  "Ditching Cursor for Ollama"
+date:   2026-04-23 16:20:00 +0200
+categories: [AI, Security, Legacy, DevSecOps]
 ---
 
 I cancelled Cursor and redirected that $20/month into Ollama Cloud—hosting a roster of models I can switch between instantly.
