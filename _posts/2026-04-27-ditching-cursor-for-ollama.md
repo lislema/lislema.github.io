@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ditching Cursor for Ollama"
-date:   2026-04-23 16:20:00 +0200
+date:   2026-04-27 09:40:00 +0200
 categories: [AI, Security, Legacy, DevSecOps]
 ---
 
