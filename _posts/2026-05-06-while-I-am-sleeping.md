@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I Made Claude Code Build Me a Copilot Army (And All I Got Was This Lousy Blog Post)"
-date:   2026-05-06 16:30:00 +0200
+date:   2026-05-07 11:27:32 +0200   
 categories: [AI, Security, Legacy, DevSecOps]
 ---
 
