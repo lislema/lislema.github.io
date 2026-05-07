@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Self hosting Models for Coding"
-date:   2026-05-04 9:45:00 +0200
+date:   2026-05-04 09:45:00 +0200
 categories: [AI, Security, Legacy, DevSecOps]
 ---
 
